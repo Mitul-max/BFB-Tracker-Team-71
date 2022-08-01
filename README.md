@@ -20,7 +20,9 @@
   </p>
 </div>
 
-
+ 
+<video width="320" height="240" controls>
+  <source src="images/CFG Final_Trim.mp4" type="video/mp4">
 
 <!-- TABLE OF CONTENTS -->
 <details>
