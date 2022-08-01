@@ -21,9 +21,11 @@
 </div>
 
  
-<video width="320" height="240" controls>
-  <source src="images/CFG Final_Trim.mp4" type="video/mp4">
-</video>
+
+
+https://user-images.githubusercontent.com/57823472/182075648-02da5d2c-37cb-412b-a0ae-7f57276bc439.mp4
+
+
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -104,6 +106,7 @@ Follow the steps given below to run the project locally on your system.
   npm install npm@latest -g
   npm install nodemon@latest -g
   ```
+<img width="581" alt="login" src="https://user-images.githubusercontent.com/57823472/182074857-3864e931-48e0-46fa-aa20-7cc471164983.png">
 
 ### Installation
 
@@ -141,6 +144,7 @@ _Once all the prerequisites are met, the required API Keys and dependencies must
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+![sample-report](https://user-images.githubusercontent.com/57823472/182074973-46159da1-a25d-41b4-80de-e2339ee8f38a.JPG)
 
 
 <!-- ROADMAP -->
